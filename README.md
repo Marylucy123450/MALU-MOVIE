@@ -62,13 +62,18 @@ Open your browser and go to http://localhost:3000 to see the app in action.
 
 
 ##Customization
+
+
 Feel free to modify and customize the app to suit your needs. If you make significant improvements or features, consider contributing back by creating a pull request.
 
 ##License
+
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
 ## Author
+
 
 - **Marylucy Atieno** - [GitHub Profile](https://github.com/Marylucy123450)
 
