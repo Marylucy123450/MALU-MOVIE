@@ -31,11 +31,13 @@ MALU MOVIE.
   npm (v6 or above) or Yarn
 
 ##Installation
+
 1. Fork the Repository
 
   Click the "Fork" button at the top-right of this repository to fork it to your GitHub account.
 
 2. Clone the Repository
+
   Clone the forked repository to your local machine:
   By using the following command (git clone https://github.com/Marylucy123450/MALU-MOVIE.git)
 
